@@ -1,0 +1,26 @@
+{   "Nombre":"Ducatti",
+    "modelo": 2014,
+    "id": "new-Ducatti",
+    "images": [
+        "img/motos/ducatti/ducatti1.jpg",
+        "img/motos/ducatti/ducatti2.jpg",
+        "img/motos/ducatti/ducatti3.jpg",
+        "img/motos/ducatti/ducatti4.jpg",
+        "img/motos/ducatti/ducatti5.jpg"
+    ],
+    "descripcion": "Motocicleta de carrera de alta velocidad",
+    "motor": {
+      "TipoDeMotor":"dos cilindros",
+      "Marchas":"siete",
+      "TipoDeTransmision":"manual",
+        "Arranque":"electrico"
+
+    },
+    "fabricante": {
+        "nombre":"Ducatti",
+        "pais":"Italia"
+    },
+    "cilindrada":"900",
+    "tamano":"grande",
+    "peso":"350 kg"
+}

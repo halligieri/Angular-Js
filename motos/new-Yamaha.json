@@ -1,0 +1,26 @@
+{   "Nombre":"Yamaha",
+    "modelo": 2015,
+    "id": "new-Yamaha",
+    "images": [
+        "img/motos/yamaha/yamaha1.jpg",
+        "img/motos/yamaha/yamaha2.jpg",
+        "img/motos/yamaha/yamaha3.jpg",
+        "img/motos/yamaha/yamaha4.jpg",
+        "img/motos/yamaha/yamaha5.jpg"
+    ],
+    "descripcion": "Motocicleta de carrera Japonesa de alta cilindrada",
+    "motor": {
+      "TipoDeMotor":"dos cilindros",
+      "Marchas":"ocho",
+      "TipoDeTransmision":"manual",
+        "Arranque":"electrico"
+
+    },
+    "fabricante": {
+        "nombre":"yamaha",
+        "pais":"Japon"
+    },
+    "cilindrada":"1000",
+    "tamano":"grande",
+    "peso":"400 kg"
+}

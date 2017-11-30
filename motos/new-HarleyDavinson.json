@@ -1,0 +1,27 @@
+{   "Nombre":"Harley Davinson",
+    "modelo": 2016,
+    "id": "new-HarleyDavinson",
+    "images": [
+        "img/motos/harleyDav/HarDAv1.jpg",
+        "img/motos/harleyDav/HarDAv2.jpg",
+        "img/motos/harleyDav/HarDAv3.jpg",
+        "img/motos/harleyDav/HarDAv4.jpg",
+        "img/motos/harleyDav/HarDAv5.jpg"
+
+    ],
+    "descripcion": "Motocicleta rutera de Estados Unidos",
+    "motor": {
+      "TipoDeMotor":"dos cilindros",
+      "Marchas":"cinco",
+      "TipoDeTransmision":"manual",
+        "Arranque":"electrico"
+
+    },
+    "fabricante": {
+        "nombre":"Harley Davinson",
+        "pais":"Usa"
+    },
+    "cilindrada":"1000",
+    "tamano":"grande",
+    "peso":"480 kg"
+}

@@ -1,0 +1,110 @@
+[
+
+    {   "Nombre":"Bmw",
+        "modelo": 2017,
+        "id": "new-Bmw",
+        "imageUrl": "img/motos/Bmw/bmw1.jpg",
+        "descripcion": "Motocicleta de alta gama",
+        "motor": {
+            "TipoDeMotor":"dos cilindros",
+            "Marchas":"seis",
+            "TipoDeTransmision":"manual",
+            "Arranque":"electrico"
+
+        },
+        "fabricante": {
+            "nombre":"Bmw",
+            "pais":"Alemania"
+        },
+        "cilindrada":"1000",
+        "tamano":"grande",
+        "peso":"400 kg"
+
+    },
+
+    {   "Nombre":"Ducatti",
+        "modelo": 2014,
+        "id": "new-Ducatti",
+        "imageUrl": "img/motos/ducatti/ducatti1.jpg",
+        "descripcion": "Motocicleta de carrera de alta velocidad",
+        "motor": {
+          "TipoDeMotor":"dos cilindros",
+          "Marchas":"seis",
+          "TipoDeTransmision":"manual",
+            "Arranque":"electrico"
+
+        },
+        "fabricante": {
+            "nombre":"Ducatti",
+            "pais":"Italia"
+        },
+        "cilindrada":"900",
+        "tamano":"grande",
+        "peso":"350 kg"
+    },
+
+    {   "Nombre":"Harley Davinson",
+        "modelo": 2016,
+        "id": "new-HarleyDavinson",
+        "imageUrl": "img/motos/harleyDav/HarDAv1.jpg",
+        "descripcion": "Motocicleta rutera de Estados Unidos",
+        "motor": {
+          "TipoDeMotor":"dos cilindros",
+          "Marchas":"seis",
+          "TipoDeTransmision":"manual",
+            "Arranque":"electrico"
+
+        },
+        "fabricante": {
+            "nombre":"Harley Davinson",
+            "pais":"Usa"
+        },
+        "cilindrada":"1000",
+        "tamano":"grande",
+        "peso":"480 kg"
+    },
+
+    {   "Nombre":"Honda",
+        "modelo": 2017,
+        "id": "new-Honda",
+        "imageUrl": "img/motos/honda/honda1.jpg",
+        "descripcion": "Motocicleta de Carrera Japonesa",
+        "motor": {
+          "TipoDeMotor":"dos cilindros",
+          "Marchas":"seis",
+          "TipoDeTransmision":"manual",
+            "Arranque":"electrico"
+
+        },
+        "fabricante": {
+            "nombre":"Honda",
+            "pais":"Japon"
+        },
+        "cilindrada":"1100",
+        "tamano":"grande",
+        "peso":"500 kg"
+    },
+
+    {   "Nombre":"Yamaha",
+        "modelo": 2015,
+        "id": "new-Yamaha",
+        "imageUrl": "img/motos/yamaha/yamaha1.jpg",
+        "descripcion": "Motocicleta de carrera Japonesa de alta cilindrada",
+        "motor": {
+          "TipoDeMotor":"dos cilindros",
+          "Marchas":"seis",
+          "TipoDeTransmision":"manual",
+            "Arranque":"electrico"
+
+        },
+        "fabricante": {
+            "nombre":"yamaha",
+            "pais":"Japon"
+        },
+        "cilindrada":"1000",
+        "tamaño":"grande",
+        "peso":"400 kg"
+    }
+
+
+]

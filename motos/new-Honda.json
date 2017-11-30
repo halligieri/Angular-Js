@@ -1,0 +1,26 @@
+{   "Nombre":"Honda",
+    "modelo": 2017,
+    "id": "new-Honda",
+    "images": [
+        "img/motos/honda/honda1.jpg",
+        "img/motos/honda/honda2.jpg",
+        "img/motos/honda/honda3.jpg",
+        "img/motos/honda/honda4.jpg",
+        "img/motos/honda/honda5.jpg"
+    ],
+    "descripcion": "Motocicleta de Carrera Japonesa",
+    "motor": {
+      "TipoDeMotor":"dos cilindros",
+      "Marchas":"siete",
+      "TipoDeTransmision":"manual",
+        "Arranque":"electrico"
+
+    },
+    "fabricante": {
+        "nombre":"Honda",
+        "pais":"Japon"
+    },
+    "cilindrada":"1100",
+    "tamano":"grande",
+    "peso":"500 kg"
+}

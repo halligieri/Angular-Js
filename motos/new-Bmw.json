@@ -1,0 +1,27 @@
+{   "Nombre":"Bmw",
+    "modelo": 2017,
+    "id": "new-Bmw",
+    "images": [
+        "img/motos/Bmw/bmw1.jpg",
+        "img/motos/Bmw/bmw2.jpg",
+        "img/motos/Bmw/bmw3.jpg",
+        "img/motos/Bmw/bmw4.jpg",
+        "img/motos/Bmw/bmw5.jpg"
+    ],
+    "descripcion": "Motocicleta de alta gama",
+    "motor": {
+        "TipoDeMotor":"dos cilindros",
+        "Marchas":"seis",
+        "TipoDeTransmision":"manual",
+        "Arranque":"electrico"
+
+    },
+    "fabricante": {
+        "nombre":"Bmw",
+        "pais":"Alemania"
+    },
+    "cilindrada":"1000",
+    "tamano":"grande",
+    "peso":"400 kg"
+
+}
